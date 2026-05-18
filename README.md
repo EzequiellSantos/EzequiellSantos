@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=A020F0&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+EzequiellSantos;FullStack+Developer;UI%2FUX+Designer;Cyberpunk+Developer" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3500&pause=1200&color=FFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Ezequiel+Santos;Desenvolvedor+FullStack;Criando+Soluções+simples+e+modernas"
+  />
 </h1>
 
 <p align="center">
