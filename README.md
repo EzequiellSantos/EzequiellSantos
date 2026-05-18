@@ -63,7 +63,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
 
-<img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
+<img src="https://github-profile-trophy.vercel.app/?username=EzequiellSantos&theme=discord&no-frame=true&row=1&column=6"/>
 
 ---
 
