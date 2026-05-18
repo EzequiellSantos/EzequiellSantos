@@ -61,6 +61,12 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
+
+<img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
+
+---
+
 # 🐍 Snake Animation
 
 <div align="center">
