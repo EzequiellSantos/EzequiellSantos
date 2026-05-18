@@ -27,7 +27,7 @@
 
 </div>
 
----
+<!-- ---
 
 # 📊 Estatísticas
 
@@ -37,7 +37,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequiellSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-</div>
+</div>  -->
 
 ---
 
@@ -95,6 +95,7 @@
 
 </div>
 
+<!--
 ---
 
 # 🎵 Tocando agora no Spotify
@@ -103,8 +104,9 @@
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/EzequiellSantos)
 
-</div>
+</div> -->
 
+<!--
 ---
 
 # 💻 Setup
@@ -117,7 +119,7 @@ Editor: VS Code
 Terminal: PowerShell + Warp
 ```
 
----
+--- -->
 
 <div align="center">
 
