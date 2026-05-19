@@ -21,9 +21,11 @@
 
 ---
 
-# 🛠️ Tecnologias
+
 
 <div align="center">
+
+<h1> 🛠️ Tecnologias </h1>
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nestjs,tailwind,mongodb,docker,git,github,vscode" />
 
@@ -43,8 +45,6 @@
 
 ---
 
-# 🔥 Sequência de commits
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=EzequiellSantos&theme=midnight-purple&hide_border=true"/>
@@ -53,7 +53,6 @@
 
 ---
 
-# 📈 Gráfico de atividade
 
 <div align="center">
 
@@ -63,13 +62,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EzequiellSantos&theme=discord&no-frame=true&row=1&column=6"/>
-
----
-
-# 🐍 Snake Animation
 
 <div align="center">
 
@@ -77,9 +69,6 @@
 
 </div>
 
----
-
-# 🌐 Redes sociais
 
 <div align="center">
 
@@ -95,7 +84,16 @@
 <img src="https://img.shields.io/badge/Gmail-3C096C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<div>
+
+<h1></h1>
+
+<img src="https://komarev.com/ghpvc/?username=EzequiellSantos&color=blueviolet&style=for-the-badge">
+  
 </div>
+
+</div>
+
 
 <!--
 ---
