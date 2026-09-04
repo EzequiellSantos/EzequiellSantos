@@ -4,18 +4,14 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-</p>
 
 <div align="center">
 
 # 🚀 Sobre mim
 
-💜 Desenvolvedor Full Stack  
-🎨 Designer UI/UX  
-⚡ Apaixonado por tecnologia e interfaces modernas  
-🌌 Criando experiências digitais Automatizadas e Modernas
+ Desenvolvedor Web Full Stack
+
+Criando experiências digitais Automatizadas e Modernas
 
 </div>
 
